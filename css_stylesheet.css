@@ -14,17 +14,17 @@
 }
 
 #logo{
-    width: 25px;
-    height: 25px;
-    padding: 7px;
+    width: 26px;
+    height: 26px;
+    padding: 6px;
 }
 
 #logo:hover{
-    width: 27px;
-    height: 27px;
+    width: 26px;
+    height: 26px;
     background-color: rgba(173, 147, 236, 0.719);
     background-size: cover;
-    padding: 5px;
+    padding: 6px;
     border-radius: 20%;
 }
 
@@ -42,6 +42,12 @@ body{
     text-align: justify;
     margin-bottom: 40px;
 }
+
+/* .block p{
+    color: #333232;
+    text-align: justify;
+    margin-bottom: 40px; 
+} */
 
 .tab{
     display: inline;
@@ -64,14 +70,7 @@ p{
 } */
 
 .banner{
-    /* background-image: url(Assets/flower.jpg);
-    background-repeat: no-repeat;
-    background-position: center ;
-    background-size: cover; */
-
-    /* background-color: rgba(242, 240, 240, 0.553); */
-
-    /* background-image: url(Assets/brick_wall.jpg); */
+    
     background-image: linear-gradient(to top, rgba(224, 223, 223, 1), rgba(224, 223, 223, 0)), url(Assets/brick_wall.jpg);
     
     font-family: papyrus;
