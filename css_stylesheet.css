@@ -1,6 +1,7 @@
 body {
     background-color: rgb(224, 223, 223);
     font-family: consolas;
+    font-size: 2rem;
     margin: 32pt auto;
     width: 80%;
 }
